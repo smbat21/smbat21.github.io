@@ -25,7 +25,8 @@ h2 {
 hr {
     margin: 0 auto;
     width: 280px;
-    border: 1.5px solid teal;
+    border: 0;
+    border-bottom: 2.5px solid teal;
 }
 
 a {
